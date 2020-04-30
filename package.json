@@ -1,0 +1,23 @@
+{
+  "name": "tailwinds-css-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diffgee/tailwinds-css-crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diffgee/tailwinds-css-crash/issues"
+  },
+  "homepage": "https://github.com/diffgee/tailwinds-css-crash#readme",
+  "dependencies": {
+    "tailwindcss": "^1.4.0"
+  }
+}
